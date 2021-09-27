@@ -1,5 +1,5 @@
 # NDI Router
-This is a work in progress to create an NDI router. The basic idea is a fixed amount of outputs is created that can be used by NDI receivers. This software can then route sources on the netowkr into one of those fixed outputs. Much like a physical hardware video router.
+This is a work in progress to create an NDI router. The basic idea is a fixed amount of outputs is created that can be used by NDI receivers. This software can then route sources on the network into one of those fixed outputs. Much like a physical hardware video router.
 
 To help in the ease of control rather than ship with a custom UI this has been built this to use the same protocol used by blackmagic to control their hardware based video routers. You can download a copy of Videohub control from [Black Magic](https://www.blackmagicdesign.com/uk/support/family/routing-and-distribution).
 
